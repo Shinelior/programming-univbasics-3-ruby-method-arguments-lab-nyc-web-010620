@@ -21,7 +21,8 @@ end
 
 introduction ("Josh")  
 introduction ("Dan")
-introduction_with_language(name,language)
+introduction_with_language("Dan", "Ember.js")
+
 
 
 
