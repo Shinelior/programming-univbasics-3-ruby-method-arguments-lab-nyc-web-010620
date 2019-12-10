@@ -22,7 +22,8 @@ end
 introduction ("Josh")  
 introduction ("Dan")
 introduction_with_language("Dan", "Ember.js")
-introduction_with_language("Dan", "Ember.js")
+introduction_with_language("Josh", "React")
+
 
 
 
